@@ -1,4 +1,9 @@
-## CVS Health Customer Tweets Risk Analysis
+## Project Title: CVS Health Customer Tweets Risk Analysis
+
+## The ISODS - International Society of Data Scientists: 
+The ISODS is a Massachusetts non-profit organization dedicated to fostering collaboration and excellence in the field of Data Science and Artificial Intelligence (AI). Comprising a diverse community of professionals, including Data Scientists, Machine Learning Scientists, AI Scientists, Data Analysts, Data Engineers, Software Engineers, Risk Analysts, Actuaries, Business Analysts, and more, The ISODS plays a pivotal role in advancing the applications of Data Science and AI across various industries.
+
+The organization's mission extends beyond geographical boundaries, promoting the practice of Data Science and AI both within the United States and on the international stage. Key initiatives include professional exams, competitions, conferences, training programs, and publications that contribute to the continuous growth and development of the Data Science and AI community.
 
 Objective:
 The main objective of this project is to analyze customer tweets related to CVS Health in the USA from February 1, 2022, to August 1, 2022. The focus is on identifying potential risks and issues raised by customers through their tweets, aiming to enhance CVS's competitiveness. The project leverages Natural Language Processing (NLP) techniques for sentiment analysis and risk classification.
